@@ -1,0 +1,18 @@
+[
+  {
+    "Id": 2,
+    "Name": "dat",
+    "DoB": "2004-09-03",
+    "Email": "tiendat9304@gmail.com",
+    "Address": "asasa",
+    "Major": "apdp"
+  },
+  {
+    "Id": 3,
+    "Name": "lam",
+    "DoB": "2007-03-04",
+    "Email": "123@gmail.com",
+    "Address": "asdsd",
+    "Major": "AD"
+  }
+]
